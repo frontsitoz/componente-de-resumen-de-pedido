@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --Verypale-blue: hsl(225, 100%, 98%);
+--Desaturated-blue: hsl(224, 23%, 55%);
+--Dark-blue: hsl(223, 47%, 23%);
+}
+
